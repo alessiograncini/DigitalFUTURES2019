@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: e0dde00c58a36400589a356ce66a0c20
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Executive
+  fontNames:
+  - Executive
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cc1f62d4082974a2781bdec72178b7f6, type: 3}
+  - {fileID: 12800000, guid: 25436ea5205284e97af5487cd6d47946, type: 3}
+  - {fileID: 12800000, guid: bc4b24b567f8141c291ad750796ddd1a, type: 3}
+  - {fileID: 12800000, guid: 6a3b30d5345b24e30995e9e14afeb170, type: 3}
+  - {fileID: 12800000, guid: a36dd1db6fdde4c66b7ece0900a8933e, type: 3}
+  - {fileID: 12800000, guid: 22670cecda8d749a4ba785fc7f66f3f5, type: 3}
+  - {fileID: 12800000, guid: 7b913b5e6ca4a46368b098b9dd22477b, type: 3}
+  - {fileID: 12800000, guid: 85f9d8ffa352f442f8c0ae2597f2aef4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
