@@ -1,14 +1,31 @@
-# AR Foundation Samples
-Example projects that use *AR Foundation* and demonstrate its functionality with sample assets and components.
+- DigitalFUTURES Shanghai -
 
-Compatible with Unity 2019.1 and later.
+2019 
 
-## Instructions for installing AR Foundation
+This summer
 
-1. Download the latest version of Unity 2019.1 or later.
+Tongji University
 
-2. Open Unity, and load the project at the root of the *arfoundation-samples* repository.
+Will join hands with
 
-3. Open your choice of sample scene.
 
-4. See the [AR Foundation Documentation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@2.0) for usage instructions and more information.
+
+ASC-CCD
+
+ASC-VACS
+
+Education Committee of Digital Technologies in Architecture
+
+Tongji Architectural Design (Group) Co., Ltd
+
+To hold a Big party of "Architectural Intelligence"
+
+——2019 “ DigitalFUTURES Shanghai ” 
+
+
+
+In our daily journey through the city, we consciously or subconsciously store sensations as audio-visual memories. What if we were given the possibilities to store these experiences and revisit them anytime desired? What if we were able to experience other citizens’ stored data? If these experiences were re-interpreted as immersive data patterns, would our understanding of architectural and urban morphology, materiality, and microclimatology become more elevated?
+
+In our daily journey through the city, we consciously or subconsciously store sensations as audio-visual memories. What if we were given the possibilities to store these experiences and revisit them anytime desired? What if we were able to experience other citizens’ stored data? If these experiences were re-interpreted as immersive data patterns, would our understanding of architectural and urban morphology, materiality, and microclimatology become more elevated?
+
+In our daily journey through the city, we consciously or subconsciously store sensations as audio-visual memories. What if we were given the possibilities to store these experiences and revisit them anytime desired? What if we were able to experience other citizens’ stored data? If these experiences were re-interpreted as immersive data patterns, would our understanding of architectural and urban morphology, materiality, and microclimatology become more elevated?
